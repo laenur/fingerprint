@@ -41,3 +41,11 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+*.exe
+Debug/debug/main.o
+Debug/Makefile
+*.Debug
+*.Release
+*.pro
+*.user
